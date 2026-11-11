@@ -15,9 +15,6 @@
 ## 🚀 Proyek Unggulan
 
 - **[TemanBicara](https://github.com/wxhyxtrx/temanbicara-app)**: platform konseling multi-peran dengan booking sesi, chat, dan dashboard admin. [Demo live](https://temanbicara-app-eight.vercel.app)
-- **[Cinemax](https://github.com/wxhyxtrx/cinemax)**: `[isi deskripsi singkat]`
-- **[authentication-BETA](https://github.com/wxhyxtrx/authentication-BETA)**: modul autentikasi yang bisa dipakai ulang, dibangun dengan React dan Zustand
-- **[pokemon-api](https://github.com/wxhyxtrx/pokemon-api)**: aplikasi web Next.js (Pages Router) dengan data Pokémon
 
 ## 📫 Terhubung dengan saya
 
